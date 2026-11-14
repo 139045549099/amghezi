@@ -1,2 +1,2 @@
 # amghezi
-a test project
+yek gaav daram amghezi
